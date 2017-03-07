@@ -5,7 +5,7 @@
 ## Getting Started
 
 1. Fork this repo, and clone it to your local machine.
-2. Change directories into `rails_views_training`, and `bundle install`.
+2. Change directories into `rails-views-partials-helpers-lab`, and `bundle install`.
 3. Run `rake db:create db:migrate db:seed` (or `rake db:setup`).
 4. Start your Rails server; then you're ready to go!
 
