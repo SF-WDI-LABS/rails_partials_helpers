@@ -3,4 +3,6 @@
 <% @recipes.each do |recipe| %>
   <strong><%= recipe.name %></strong> - <%= link_to "View Recipe", recipe_path(recipe) %>
   <hr>
+
+<%= link_to "Add Recipe", new_recipe_path %>
 <% end %>
