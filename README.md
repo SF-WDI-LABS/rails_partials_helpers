@@ -6,7 +6,7 @@
 
 1. Fork this repo, and clone it to your local machine.  
 
-2. Change directories into `rails-views-helpers-training`, and `bundle install`.  
+2. Change directories into the project directory, and `bundle install`.  
 
 3. Run `rails db:create db:migrate db:seed` (or `rails db:setup`).  
 
@@ -19,7 +19,7 @@
 
 2. Find one form in this application, and refactor it to use the <a href="http://guides.rubyonrails.org/form_helpers.html#binding-a-form-to-an-object" target="_blank">`form_for` helper</a>.
 
-3. Refactor othe recipes new and edit forms to use a <a href="http://guides.rubyonrails.org/layouts_and_rendering.html#using-partials" target="_blank">partial</a>.
+3. Refactor the recipes new and edit forms to use a <a href="http://guides.rubyonrails.org/layouts_and_rendering.html#using-partials" target="_blank">partial</a>.
 
 4. While you're at it, refactor the Bootstrap navbar in the application layout to use a partial (or named yield).
 
