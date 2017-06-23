@@ -21,7 +21,7 @@
 
 3. Refactor the recipes new and edit forms to use a <a href="http://guides.rubyonrails.org/layouts_and_rendering.html#using-partials" target="_blank">partial</a>.
 
-4. While you're at it, refactor the Bootstrap navbar in the application layout to use a partial (or named yield).
+4. While you're at it, refactor the Bootstrap navbar in the application layout to use a partial.
 
 5. Find one redirect (`redirect_to`) in the **controller methods**, and refactor it to use <a href="http://guides.rubyonrails.org/routing.html#prefixing-the-named-route-helpers" target="_blank">path prefixes</a>.
 
